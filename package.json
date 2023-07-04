@@ -1,31 +1,20 @@
 {
-  "name": "Insta 2 You",
-  "version": "1.0.0",
-  "description": "Download Instagram video just sending this link",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": {
-    "name": "Mohammed Athif",
-    "url": "https://github.com/SCR-athif/"
-  },
-{
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@types/node": "^18.0.6",
-    "node-fetch": "^3.2.6",
-    "node-telegram-bot-api": "^0.61.0"
+ "name": "Insta2You",
+ "version": "1.0.0",
+ "description": "Download Instagram video just sending this link",
+ "main": "index.js",
+ "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "keywords": [],
+ "author": {
+   "name":"Mohammed Athif",
+   "URL":"https://github.com/SCR-athif/"
+ },
+ "license": "ISC",
+ "dependencies": {
+   "@types/node": "^18.0.6",
+   "node-fetch": "^3.2.6",
+   "node-telegram-bot-api": "^0.61.0"
   }
 }
